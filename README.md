@@ -6,3 +6,10 @@
 2. MapBox
 3. Netlify
 4. Images of people : [RandomUser](https://randomuser.me/)
+
+## Output Video :
+
+#### Mobile Screen : 
+https://user-images.githubusercontent.com/45993797/132707360-f0ace8a6-6911-401a-b8e3-77984580c21a.mp4
+
+
